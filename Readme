@@ -1,1 +1,8 @@
 # Nunber Process Demo
+
+# Trả nợ cho a Quý mấy câu hôm bữa:
+1. Viết extention MyEmpty
+    Path: NumberProcessApplication>Extention>MyEmpty
+2. Tìm cặp số trong mảng bằng tổng cho trước
+    Path: NumberProcessApplication>Helper>FindPairNumbers
+
