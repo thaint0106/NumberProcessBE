@@ -1,0 +1,8 @@
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\bin\Debug\netcoreapp3.1\NumberProcessApplication.deps.json
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\bin\Debug\netcoreapp3.1\NumberProcessApplication.dll
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\obj\Debug\netcoreapp3.1\NumberProcessApplication.AssemblyInfoInputs.cache
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\obj\Debug\netcoreapp3.1\NumberProcessApplication.AssemblyInfo.cs
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\obj\Debug\netcoreapp3.1\NumberProcessApplication.csprojAssemblyReference.cache
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\bin\Debug\netcoreapp3.1\NumberProcessApplication.pdb
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\obj\Debug\netcoreapp3.1\NumberProcessApplication.dll
+D:\INTERVIEW\NumberProcessing\NumberProcessApplication\obj\Debug\netcoreapp3.1\NumberProcessApplication.pdb
